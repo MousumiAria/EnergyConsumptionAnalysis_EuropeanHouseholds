@@ -6,7 +6,11 @@
 
 To analyze, visualize, and derive insights from a dataset representing the energy consumption in households across various European countries, segmented by fuel type, over the past decade.
 
-![EnergyConsumptionAnalysis_EuropeanHouseholds](https://github.com/MousumiAria/EnergyConsumptionAnalysis_EuropeanHouseholds/blob/main/Trends_Disp_LE.JPG?raw=true)
+## European Union Analysis 
+![EnergyConsumptionAnalysis_EuropeanHouseholds](https://github.com/MousumiAria/EnergyConsumptionAnalysis_EuropeanHouseholds/blob/main/EuropionUnionDataAnalysis.JPG)
+
+## Country wise Data Analysis
+![EnergyConsumptionAnalysis_EuropeanHouseholds](https://github.com/MousumiAria/EnergyConsumptionAnalysis_EuropeanHouseholds/blob/main/CountrywiseAnanysis.JPG)
 
 ## Dataset details:
 A comprehensive dataset detailing the energy consumption across European households, broken down by four major fuel types: Electricity, Natural Gas, Liquid Petroleum Gas and Kerosene. Data spans over a decade, providing a rich temporal context.
@@ -21,7 +25,7 @@ b. [O4630]= Liquied petroleum gas
 c. [O4669]= Kerosene
 d. [RA410]=Solar Tharmal
 e. [E700]=Electricity
-3. [TIME_PERIOD]: Time(Year)
+3. [TIME_PERIOD]: Year
 4. [OBS_VALUE]: Unit of Measure(Thousand tonnes of oil equivalent)
 
 ## Tools & Technologies:
