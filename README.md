@@ -140,7 +140,7 @@ Explore the integration of predictive analytics to forecast future energy consum
 
 ## Developer: 
 
-<a href="https://https://github.com/MousumiAria"> Mousumi Sen</a>
+<a href="https://github.com/MousumiAria"> Mousumi Sen</a>
 
 ## Level: 
 * Data Analyst
