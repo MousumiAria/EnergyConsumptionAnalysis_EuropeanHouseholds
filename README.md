@@ -14,15 +14,15 @@ It is downloaded from the website: https://ec.europa.eu/eurostat/databrowser/vie
 
 ## Columns Description 
 
-1.[geo]:Geopolitical entity(Countries under European consumption)
-2.[siec]:Standard International Energy Product Classification(Fuel Type)
-[G3000]=Natural gas
-[O4630]= Liquied petroleum gas
-[O4669]= Kerosene
-[RA410]=Solar Tharmal
-[E700]=Electricity
-3.[TIME_PERIOD]: Time(Year)
-4.[OBS_VALUE]: Unit of Measure(Thousand tonnes of oil equivalent)
+1. [geo]:Geopolitical entity(Countries under European consumption)
+2. [siec]:Standard International Energy Product Classification(Fuel Type)
+a. [G3000]=Natural gas
+b. [O4630]= Liquied petroleum gas
+c. [O4669]= Kerosene
+d. [RA410]=Solar Tharmal
+e. [E700]=Electricity
+3. [TIME_PERIOD]: Time(Year)
+4. [OBS_VALUE]: Unit of Measure(Thousand tonnes of oil equivalent)
 
 ## Tools & Technologies:
 
