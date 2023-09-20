@@ -30,8 +30,6 @@ Primary Tool: Power BI
 Data Modeling: DAX for custom metrics and measures
 Data Processing: Power Query in Power BI
 
-![WHO_LifeExpectancy_DataAnalysis](https://github.com/MousumiAria/WHO_LifeExpectancy_DataAnalysis/blob/main/Trends_Disp_LE.JPG?raw=true)
-
 ## Data Preparation:
 
 Imported the dataset into Power BI.
