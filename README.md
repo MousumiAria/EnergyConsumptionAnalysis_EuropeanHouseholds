@@ -176,7 +176,7 @@ Data Analyst
 
 ## The timeline of the project: 
 
-August-September 2023**
+August-September 2023
 
 
 
