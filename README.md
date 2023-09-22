@@ -4,7 +4,7 @@
 
 ## Description:
 
-To analyze, visualize, and derive insights from a dataset representing the energy consumption in households across various European countries, segmented by fuel type, over the past decade.
+To analyse, visualize, and derive insights from a dataset representing the energy consumption in households across various European countries, segmented by fuel type, over the past decade.
 
 ## Analysis for all Countries in European Union  
 ![EnergyConsumptionAnalysis_EuropeanHouseholds](https://github.com/MousumiAria/EnergyConsumptionAnalysis_EuropeanHouseholds/blob/main/EuropionUnionDataAnalysis.JPG)
