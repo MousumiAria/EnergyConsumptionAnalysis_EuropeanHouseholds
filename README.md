@@ -82,13 +82,11 @@ ii) Stacked Column/Bar Charts: Showcase how much of the total consumption each t
 
 4. Comparative Analysis:
 
-i)Scatter Plots: Compare two countries in terms of their energy consumption patterns to spot outliers or interesting patterns.
-
-ii)Waterfall Chart: If there's a significant change in a country's energy consumption from one year to the next, use this chart to break down the contributing factors (like increase in electricity usage, decrease in gas, etc.).
+Waterfall Chart: If there's a significant change in a country's energy consumption from one year to the next, use this chart to break down the contributing factors (like increase in electricity usage, decrease in gas, etc.).
 
 5. Year-on-Year Growth:
 
-i)Percent Change Calculation: Showcase the YoY growth rate for each type of fuel in each country.
+Percent Change Calculation: Showcase the YoY growth rate for each type of fuel in each country.
 
 6. Top and Bottom Analysis:
 
