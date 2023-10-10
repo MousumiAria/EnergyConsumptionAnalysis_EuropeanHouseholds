@@ -13,7 +13,7 @@ To analyse, visualize, and derive insights from a dataset representing the energ
 ![EnergyConsumptionAnalysis_EuropeanHouseholds](https://github.com/MousumiAria/EnergyConsumptionAnalysis_EuropeanHouseholds/blob/main/CountrywiseAnanysis.JPG)
 
 ## Dataset details:
-A comprehensive dataset detailing the energy consumption across European households, broken down by four major fuel types: Electricity, Natural Gas, Liquid Petroleum Gas and Kerosene. Data spans over a decade, providing a rich temporal context.
+A comprehensive dataset detailing the energy consumption across European households, broken down by five major fuel types: Electricity, Natural Gas, Liquid Petroleum Gas, Solar Tharmal and Kerosene. Data spans over a decade, providing a rich temporal context.
 It is downloaded from the website: https://ec.europa.eu/eurostat/databrowser/view/TEN00125__custom_7257799/default/table?lang=en
 
 ## Columns Description 
